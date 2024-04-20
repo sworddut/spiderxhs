@@ -3,7 +3,7 @@
 
 
 
-
+# 使用方式
 
 ```shell
 python main.py --u {url} --d {data} --n {name}
